@@ -1,7 +1,6 @@
 /*
 Required: GTK+ 2 libraries;development; and whatver else it takes along with pkg-config
 Compile with: gcc -Wall -g wardrive.c -o wardrive `pkg-config --cflags gtk+-2.0` `pkg-config --libs gtk+-2.0`
-Created by: KryptoBSD (kryptobsd@uncompiled.com) www.uncompiled.com
 */
 
 #include <stdio.h>
